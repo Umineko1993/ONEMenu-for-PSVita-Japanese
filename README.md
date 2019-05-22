@@ -1,4 +1,4 @@
-# ONEMenu-for-PSVita-Japaneseの日本語言語ファイル<br>
+# ONEMenu-for-PSVitaの日本語言語ファイル<br>
 <br>
 本家→ https://github.com/ONElua/ONEMenu-for-PSVita/<br>
 <a rel = "license" href = "https://creativecommons.org/licenses/by-nc-sa/4.0/">この作品はクリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンスの下に提供されています</a><br>
